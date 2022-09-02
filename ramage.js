@@ -31,9 +31,9 @@ var f2=f.replace(f,f+'<a href="" onclick="javascript:void popup()"><button style
 document.getElementsByClassName("titlewrapper")[0].innerHTML=f2;
 
 var a=document.getElementById("tbl1").innerHTML;
-var k='http://cinemais.club/play.php?movie='+a;
+var k='http://muvia.xyz/play.php?movie='+a;
 var c=document.getElementById("tbl2").innerHTML;
-var c2=c.replace(c,'<center><a href="http://cinemais.club/play.php?movie='+a+'" title="Watch Now"  target="_blank"  id="ke"><img src="'+wGam+'" style="cursor:pointer;" alt="Watch Now" /></a></center>');
+var c2=c.replace(c,'<center><a href="http://muvia.xyz/play.php?movie='+a+'" title="Watch Now"  target="_blank"  id="ke"><img src="'+wGam+'" style="cursor:pointer;" alt="Watch Now" /></a></center>');
 document.getElementById("tbl2").innerHTML=c2;
 var e=document.getElementById("backdrop").innerHTML;
 var e2=e.replace(e,'<img src="http://postere-moviedi.rhcloud.com/backdrop.php?img='+a+'" width="560" height="auto" />');
