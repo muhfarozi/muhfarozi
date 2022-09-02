@@ -1,4 +1,5 @@
 function updateme(){
+document.body.innerHTML = document.body.innerHTML.replace('cinemais.club', 'muvia.xyz');
 var _0xf7b0=["href","location","/","split",".","",""];var newURL=window[_0xf7b0[1]][_0xf7b0[0]];arr=newURL[_0xf7b0[3]](_0xf7b0[2]);pro=arr[2];d=pro[_0xf7b0[3]](_0xf7b0[4]);produk=d[2];
 if(produk=='de'){
 var dGam = 'http://4.bp.blogspot.com/-OYqj7K_Gfyg/VKCwjFcviMI/AAAAAAAAAS8/S1_rMe8lJk4/s1600/de-down.png';
