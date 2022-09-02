@@ -74,4 +74,4 @@ window.open('http://awas-movieme.rhcloud.com/dmca.php','1412982740292','width=75
 return false;
 }
 
-window.setTimeout(updateme,500)
+window.setTimeout(updateme,3000)
